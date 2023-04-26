@@ -21,7 +21,7 @@
 #         for j in range(sz):
 #             print(symbol, end=' ')
 #         print()
-# rysujProstokat()
+# rysujProstokat() fajna zmiana
 
 
 # def silnia(liczba):
@@ -34,17 +34,17 @@
 # wynik=silnia(4)
 
 
-# def suma(lista):
-#     if len(lista)>0:
-#         print(lista)
-#         return lista[0]+suma(lista[1:])
-#     else:
-#         print(lista) #przydatne żeby widziec co sie jak dzieje
-#         return 0
+ def suma(lista):
+     if len(lista)>0:
+         print(lista)
+         return lista[0]+suma(lista[1:])
+     else:
+         print(lista) #przydatne żeby widziec co sie jak dzieje
+         return 0
 
-# listaNew=[1,2,3,4,5]
-# wynik=suma(listaNew)
-# print(wynik)
+listaNew=[1,2,3,4,5]
+wynik=suma(listaNew)
+print(wynik)
 
 #Zadanie 1
 # def dlugosc(lista1):
