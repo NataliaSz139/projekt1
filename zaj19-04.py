@@ -1,5 +1,5 @@
 #zmienne lokalne - wewnątrz funkcji, nie są do odebranie przez "świat wewnętrzny", nie jest widoczne poza ciałem funkcji
-
+# cokolwiek ~Otylia
 #float - tak samo jak int, tylko można dać liczby po przecinku
 
 #7 jest zmienna globalna, a 8 lokalna
