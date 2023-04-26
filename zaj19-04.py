@@ -68,7 +68,7 @@ print(wynik)
 #             return ostatni(lista2[1:])
     
 # lista22=[1,2,3,4,5,6]
-# wynik=ostatni(lista22)
+# wynik=ostatni(lista22).
 # print(wynik)
 
 
